@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+:link {
+    text-decoration: none;
+}
+
+@media (max-width:1000px){
+    .API{
+        display:none
+    }
+}
