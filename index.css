@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.liItems span {
+    display: inline;
+    padding: 0px 1em;
+    cursor: pointer;
+}
+
+.liItems span:hover {
+
+}
+
+.blueColor {
+    color: #0088cc;
+}
+
+.liItems i {
+    padding: 0px .5em;
+}
+
+.recentNews h6 {
+    color: black;
+}
